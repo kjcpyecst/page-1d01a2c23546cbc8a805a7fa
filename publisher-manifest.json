@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "4015535ad9a215791c00c604",
+  "owner": "kjcpyecst",
+  "repo": "page-1d01a2c23546cbc8a805a7fa",
+  "title": "新门机场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1d01a2c23546cbc8a805a7fa",
+      "a": "新门机场",
+      "b": "",
+      "entity": "新门机场",
+      "brand": "新门机场",
+      "separator": "",
+      "path": "index.html",
+      "hash": "49381cbfe9bb098f10a1a7a2e3a7f14e8fab539edf713a46f86c3f8af0191934",
+      "content": {
+        "keyword1": "新门机场",
+        "keyword2": "",
+        "primary_entity": "新门机场",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "新门机场提供稳定机场订阅与VPN梯子网络加速服务，涵盖套餐说明、配置流程及多端客户端官方下载，助力流媒体解锁与游戏加速。",
+          "AI_DESCRIPTION": "新门机场提供稳定机场订阅与VPN梯子网络加速服务，涵盖套餐说明、配置流程及多端客户端官方下载，助力流媒体解锁与游戏加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>:root{--coral:#E07050;--warm:#FFF8F2;--dark:#2A2520;--lightcoral:#FDE8E0;--text:#3D342C;--card:#ffffff}*{box-sizing:border-box}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:var(--warm);color:var(--text);font-size:17px;line-height:1.7}a{color:var(--coral);text-decoration:none}a:hover{text-decoration:underline}header{background:var(--card);border-bottom:3px solid var(--coral);padding:12px 16px;position:sticky;top:0}nav{display:flex;flex-wrap:wrap;gap:10px 16px;justify-content:center;align-items:center}nav .brand{font-weight:800;font-size:1.2rem;color:var(--coral)}nav a{font-weight:600;color:var(--dark)}main{max-width:960px;margin:0 auto;padding:8px 16px 48px}h1{font-size:2rem;color:var(--dark);text-align:center;margin:28px 0 10px}h2{font-size:1.45rem;color:var(--coral);border-bottom:2px solid var(--lightcoral);padding-bottom:6px;margin:36px 0 14px}h3{font-size:1.15rem;color:var(--dark);margin:0 0 8px}.lead{text-align:center;margin:0 0 28px}.stagger{display:flex;flex-wrap:wrap;gap:16px;margin:18px 0;align-items:stretch}.stagger>div{flex:1 1 260px;background:var(--card);padding:18px;border-radius:12px;border:1px solid #F0E4DC}.stagger.reverse{flex-direction:row-reverse}.coral{background:var(--coral);color:#fff;border-color:transparent}.coral h3,.coral a{color:#fff}.plans{display:flex;flex-wrap:wrap;gap:16px;justify-content:center}.plan{flex:1 1 230px;background:var(--card);border:2px solid #F0E4DC;border-radius:12px;padding:18px}.plan.featured{border-color:var(--coral);background:var(--lightcoral)}.price{font-size:1.35rem;font-weight:800;color:var(--coral);margin:0}.annual{font-size:.92rem;color:#666;margin:4px 0 10px}ul{margin:8px 0 0;padding-left:1.2em}.ad{background:var(--coral);color:#fff;text-align:center;padding:14px 16px;border-radius:10px;margin:22px 0;font-weight:700}.ad a{color:#fff}.step-list{margin:0;padding:0;list-style:none;counter-reset:s}.step-list li{position:relative;padding:8px 0 8px 48px;margin:8px 0}.step-list li:before{counter-increment:s;content:counter(s);position:absolute;left:0;top:8px;width:32px;height:32px;border-radius:50%;background:var(--coral);color:#fff;font-weight:700;display:flex;align-items:center;justify-content:center}details{background:var(--card);border:1px solid #F0E4DC;border-radius:8px;margin:10px 0;padding:2px 14px}summary{font-weight:700;padding:10px 0;color:var(--dark)}details p{margin:0 0 12px}footer{background:var(--dark);color:#F5EDE8;padding:28px 16px;text-align:center;font-size:.95rem}footer a{color:#FFB8A0}.friends{display:flex;flex-wrap:wrap;gap:8px 14px;justify-content:center;margin:14px 0}@media (max-width:700px){.stagger,.stagger.reverse{flex-direction:column}h1{font-size:1.6rem}body{font-size:16px}}</style><header><nav><span class=\"brand\">新门机场</span><a href=\"#intro\">简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐订阅</a><a href=\"#config\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></header><main><h1>新门机场</h1><p class=\"lead\">新门机场官方网站，提供机场订阅、VPN梯子网络加速与多端客户端下载指引，帮助用户稳定解锁内容、降低延迟并完成规范配置。</p><section id=\"intro\"><h2>品牌简介</h2><p>新门机场面向个人与团队提供可订阅的网络加速服务。通过节点池维护与专线优化，用户可以把国际访问、流媒体播放和跨境协作放在同一套订阅里完成。本站作为新门机场官网，集中说明套餐差异、配置流程与客户端适配，避免在非官方渠道误购订阅。</p><p>服务定位清晰：基础版覆盖日常浏览与基础解锁，旗舰版强化流媒体与游戏线路，团队版面向多设备与定制路由。订阅后即可在账户中复制链接，导入主流客户端开始加速，无需复杂命令行。</p></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"stagger\"><div><h3>流媒体与资讯获取</h3><p>将客户端切换到解锁节点后，常见视频与资讯站点更易保持清晰画质。适合晚间追剧、查阅资料，也便于对比不同线路的播放稳定性。</p></div><div class=\"coral\"><h3>游戏与实时对战</h3><p>旗舰版起包含 IPLC 专线游戏加速优化，适合对延迟敏感的联网对局。建议固定游戏节点并关闭多余分流规则，减少绕路。</p></div></div><div class=\"stagger reverse\"><div><h3>跨境办公与开发</h3><p>仓库、文档与会议工具走加速通道，团队版可配合定制路由把办公域名与娱乐流量分开，降低互相抢占带宽的情况。</p></div><div><h3>出行与多设备同步</h3><p>手机、电脑与平板共用同一订阅。出门更换网络时，先更新订阅再测速选点，即可延续新门机场的梯子加速体验。</p></div></div></section><section id=\"plans\"><h2>套餐与机场订阅</h2><p>以下为新门机场当前可订阅方案，价格与额度以官网结算页为准。年付可降低月均成本，适合已经跑通配置流程的用户。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p>个人主力推荐，兼顾解锁与游戏线路。</p></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><p class=\"ad\"><a href=\"#plans\">广告：新门机场旗舰版含全节点解锁与 IPLC 优化，年付 ¥350，适合作为主力加速器套餐。</a></p></section><section id=\"config\"><h2>配置流程</h2><p>新门机场把配置流程拆成可核对的四步。按顺序完成订阅、下载、导入与选点，一般即可连上。遇到异常时回到对应步骤排查，比反复重装客户端更有效。</p><div class=\"stagger\"><div><h3>确认需求再订阅</h3><p>先估算设备数与流量：轻度浏览选基础版，4K 与游戏选旗舰版，多成员共用选团队版。在官网完成支付后，进入账户复制订阅链接并本地保存。</p></div><div class=\"coral\"><h3>按系统获取客户端</h3><p>Windows、macOS、Android、iOS 使用不同客户端。只从应用商店或开发者发布页安装，再回到本站对照导入方式，避免来路不明的修改版。</p></div></div><ol class=\"step-list\"><li>打开已安装的客户端，找到订阅、配置或 Profiles 入口，选择从 URL 添加。</li><li>粘贴新门机场订阅链接，执行更新，确认节点列表出现地区与类型标签。</li><li>按用途选点：流媒体选解锁节点，游戏选 IPLC 或低延迟专线，日常浏览可选负载均衡。</li><li>开启系统代理、VPN 配置或 TUN 模式，访问目标站点验证；失败则更换节点或更新订阅后再试。</li></ol><div class=\"stagger reverse\"><div><h3>规则与分流建议</h3><p>国内直连、国外走代理可减少延迟。游戏可对指定进程或端口走专线。修改规则后记得重新启用配置，以免客户端仍使用旧策略。</p></div><div><h3>权限与证书检查</h3><p>移动端需允许添加 VPN 配置；部分客户端会安装本地证书，请在系统设置中信任。系统时间不准确也会导致握手失败，连接前先校准时钟。</p></div></div></section><section id=\"download\"><h2>客户端官方下载指引</h2><p>新门机场不托管安装包，只提供与机场订阅匹配的客户端方向，降低误下风险。下载完成后请回到<a href=\"#config\">配置流程</a>导入链接。</p><h3>桌面端加速器</h3><p>Windows 常用 v2rayN 或 Clash 内核图形客户端；macOS 可用 Clash 系或 Surge。导入后选择规则模式，并在系统网络设置中确认代理端口未被占用。</p><p><a href=\"#download\">桌面端下载说明（页内指引）</a></p><h3>移动端梯子客户端</h3><p>iOS 侧常见 Shadowrocket、Quantumult X、Stash；Android 侧常见 Clash Meta 与 v2rayNG。首次启动会申请 VPN 权限，同意后即可更新新门机场订阅。</p><p><a href=\"#faq\">导入失败可先阅读常见问题</a></p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>新门机场官网如何确认，怎样避免买到非官方订阅？</summary><p>请通过本站公布的套餐名称、配置流程与客户端指引核对。只在自己的官网账户内复制订阅链接，不要向陌生人发送或购买来路不明的机场链接。</p></details><details><summary>各套餐设备数和流量如何理解？</summary><p>基础版 3 台设备与每月 100GB，旗舰版 5 台与 300GB，团队版 20 台与 1000GB。流量按代理实际消耗统计、按月重置。需要更多并发时直接升级，而不是分享同一链接给无关设备。</p></details><details><summary>客户端下载后怎样导入新门机场订阅？</summary><p>复制账户中的订阅 URL，在客户端选择从 URL 更新或添加配置。等待节点刷新后选点连接。详细顺序见配置流程，桌面端与手机端按钮名称略有不同，但逻辑一致。</p></details><details><summary>能否用于流媒体解锁和游戏加速？</summary><p>基础版覆盖基础流媒体；旗舰版与团队版强调全节点原生解锁，并提供 IPLC 专线游戏加速优化。实际流畅度仍受当地网络与目标站点策略影响，可多测几个节点。</p></details><details><summary>连接失败或速度波动时优先做什么？</summary><p>依次尝试：更新订阅、更换节点、切换协议或模式、检查系统 VPN 权限与时间。旗舰版与团队版可走优先工单。仍失败时记录客户端日志，便于对照规则是否把目标站点误判为直连。</p></details><details><summary>年付是否更合适，订阅后如何变更套餐？</summary><p>长期使用且配置已经跑通时，年付月均更低。若仍在试用客户端，建议先月付。变更套餐在官网账户内操作，以新套餐额度与设备上限立即或下一周期生效为准，虚拟加速服务通常不支持无理由退款。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>新门机场官网 · 机场订阅与 VPN 梯子网络加速</p><p><a href=\"#intro\">简介</a> · <a href=\"#plans\">套餐</a> · <a href=\"#config\">配置流程</a> · <a href=\"#download\">客户端下载</a></p><div class=\"friends\"><span>友情链接</span><a href=\"#\">代理客户端对照</a><a href=\"#\">分流规则说明</a><a href=\"#\">流媒体解锁检测</a><a href=\"#\">延迟测试方法</a></div><p>使用网络加速服务时请遵守所在地法律法规。本页用于介绍新门机场套餐、配置流程与官方下载路径。</p></footer>",
+          "hash": "334eee6cd10a8eb6a2b7ac5664a76e302f3aecb25f5f638d37d60d76a618fd1f",
+          "seo": {
+            "title": "新门机场官网 - 高速VPN梯子网络加速器与客户端官方下载",
+            "keywords": "新门机场,新门机场官网,VPN梯子,网络加速,加速器,机场订阅,客户端下载,Clash下载,流媒体解锁,IPLC加速",
+            "description": "新门机场提供稳定机场订阅与VPN梯子网络加速服务，涵盖套餐说明、配置流程及多端客户端官方下载，助力流媒体解锁与游戏加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "aydao.cn",
+    "host": "p-47e2671b14.aydao.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "aydao.cn",
+      "url": "https://aydao.cn/",
+      "label": "小鸟云",
+      "apex": "aydao.cn",
+      "kind": null,
+      "identity": "akmahkpc/page-503910cde2b3ca4721a2e994"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "357ee58cd883ee8fed1186de2a83f864dc140dda7b7e5e3a979fdf0b9c4161c1",
+    "sitemap.xml": "4f0b78ba106fa01103d6f196ede7009c8bcf4fbfd6b4822156e1c536f69ca22c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0e14e23863e3e6ca7011050fab9684120d29971b87d5231bcb401d0ed0fd0d52",
+    "robots.txt": "27b6642876ca95e15b7a44b1fdbc951baba0b62c85f916b20c3242da2f1a3543",
+    "1ea34383120b649a214b2a0423d3cbf8.txt": "c625f7c7875db09d12393dfd8c030447698ade30bc8459a62736929fa9917908"
+  },
+  "revision": "c875462c213a6c45d6a2d226674d28fa858e634df2bb22e787ab80c2eaddef1f"
+}

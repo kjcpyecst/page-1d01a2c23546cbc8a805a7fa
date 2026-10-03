@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-47e2671b14.aydao.cn/sitemap.xml
